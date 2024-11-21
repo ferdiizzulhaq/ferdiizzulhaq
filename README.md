@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ferdiizzulhaq
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning javascript
-- 💞️ I’m looking to collaborate on web app project
+- 🌱 I’m currently learning dart & javascript
+- 💞️ I’m looking to collaborate on desktop, mobile & web app project
 - 📫 How to reach me @ferdiizzulhaq
 
 <!---
